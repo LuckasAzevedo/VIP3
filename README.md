@@ -1,19 +1,77 @@
 
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=FILMES ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
 
-################################################################################# Informações da Lista
+#EXTINF:-1,XO: ALBAXXX 1
+http://greenstreamtv.xyz:25461/Tricia/tricia/8163
+#EXTINF:-1,XO: ALBAXXX 2
+http://greenstreamtv.xyz:25461/Tricia/tricia/8164
+#EXTINF:-1,XO: BRAZZERS
+http://greenstreamtv.xyz:25461/Tricia/tricia/8145
+#EXTINF:-1,XO: DORCEL
+http://greenstreamtv.xyz:25461/Tricia/tricia/8146
+#EXTINF:-1,XO: DORCEL XXX
+http://greenstreamtv.xyz:25461/Tricia/tricia/8147
+#EXTINF:-1,XO: EROX
+http://greenstreamtv.xyz:25461/Tricia/tricia/8148
+#EXTINF:-1,XO: EXTREME
+http://greenstreamtv.xyz:25461/Tricia/tricia/8149
+#EXTINF:-1,XO: HUSTLER
+http://greenstreamtv.xyz:25461/Tricia/tricia/8150
+#EXTINF:-1,Mofos
+http://greenstreamtv.xyz:25461/Tricia/tricia/8144
+#EXTINF:-1,XO: O LA LA TV
+http://greenstreamtv.xyz:25461/Tricia/tricia/8152
+#EXTINF:-1,XO: PASSION XXX
+http://greenstreamtv.xyz:25461/Tricia/tricia/8154
+#EXTINF:-1,XO: PENTHOUSE GOLD
+http://greenstreamtv.xyz:25461/Tricia/tricia/8155
+#EXTINF:-1,XO: PENTHOUSE QUICKIES
+http://greenstreamtv.xyz:25461/Tricia/tricia/8156
+#EXTINF:-1,XO: PINK EROTIC
+http://greenstreamtv.xyz:25461/Tricia/tricia/8157
+#EXTINF:-1,XO: PLAYHOUSE
+http://greenstreamtv.xyz:25461/Tricia/tricia/8159
+#EXTINF:-1,XO: REDLIGHT
+http://greenstreamtv.xyz:25461/Tricia/tricia/8160
+#EXTINF:-1,XO: SEXTREME
+http://greenstreamtv.xyz:25461/Tricia/tricia/8161
+#EXTINF:-1,XO: VIVID RED
+http://greenstreamtv.xyz:25461/Tricia/tricia/8162
+#EXTINF:-1,XO:Blacked
+http://greenstreamtv.xyz:25461/Tricia/tricia/8437
+#EXTINF:-1,XXX SINSATIONS: BANGBROS 2 | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9915
+#EXTINF:-1,XXX SINSATIONS: BANGBROS | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9916
+#EXTINF:-1,XXX SINSATIONS: BLACKED 2 | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9917
+#EXTINF:-1,XXX SINSATIONS: BLACKED | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9918
+#EXTINF:-1,XXX SINSATIONS: FAMILY STROKES | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9922
+#EXTINF:-1,XXX SINSATIONS: GIRLS GONE WILD 2 | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9923
+#EXTINF:-1,XXX SINSATIONS: GLORY | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9924
+#EXTINF:-1,XXX SINSATIONS: LESBIAN 1 | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9925
+#EXTINF:-1,XXX SINSATIONS: LUST | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9927
+#EXTINF:-1,XXX SINSATIONS: MOFOS | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9930
+#EXTINF:-1,XXX SINSATIONS: NETWORK 1 | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9931
+#EXTINF:-1,XXX SINSATIONS: NETWORK 2 | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9932
+#EXTINF:-1,XXX SINSATIONS: PRIVATE | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9934
+#EXTINF:-1,XXX SINSATIONS: TEENS | HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/9935
+#EXTINF:-1,XXX SINSATIONS: VENUS 1 | HD
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 02/10/2021 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS: HD",Warner Channel HD+
